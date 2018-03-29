@@ -10,7 +10,7 @@ namespace RoboRally.Service.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Changing the title";
+            ViewBag.Title = "Thibault's fun tab!!!";
 
             return View();
         }
